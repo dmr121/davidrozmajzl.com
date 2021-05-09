@@ -13,6 +13,10 @@ module.exports = {
       fontFamily: {
         sans: ['Raleway', 'sans-serif'],
         serif: ['Abril Fatface', 'serif']
+      },
+      colors: {
+        transparent: 'transparent',
+        current: 'currentColor'
       }
     }
   },
